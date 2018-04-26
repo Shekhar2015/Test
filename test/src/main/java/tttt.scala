@@ -1,0 +1,6 @@
+
+
+object tttt {
+  
+  println("test")
+}
